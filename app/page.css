@@ -1,0 +1,29 @@
+.container {
+  min-height: 100vh;
+  background: #ffc6d8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.content {
+  text-align: center;
+  width: 100%;
+  padding: 20px;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+.footnote {
+  color: rgba(255, 255, 255, 0.9);
+  margin-top: 2rem;
+  font-size: 1rem;
+  font-style: italic;
+}
