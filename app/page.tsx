@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import Countdown from "./components/Countdown";
 import PhotoBook from "./components/PhotoBook";
 import HeartCollage from "./components/HeartCollage";
-import "./page.css";
+import "./birthday.css";
 
 type Stage = "countdown" | "book" | "collage";
 
